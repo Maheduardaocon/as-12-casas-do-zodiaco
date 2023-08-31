@@ -21,7 +21,7 @@ function MudaDesenho(){
     else if((valor=="Peixes")|| (valor=="peixes")){
         texto.innerHTML = "Peixes";
         imagem.setAttribute("src","img/peixes.png");
-        imagem.setAttribute("width","300px");
+        imagem.setAttribute("width","250px");
         texto2.innerHTML = "Cavaleiro de Ouro do signo de peixes. Natural da Suécia. É o mais belo de todas as 88 constelações e acredita fielmente que a força é a justiça. Utiliza as características da rosa pelo Cosmo e aplica os golpes. As Rosas Diabólicas Reais são flores vermelhas com veneno para atacar os inimigos. Apesar do lema a força é a justiça, é o Cavaleiro que mais se preocupa com a paz na superfície.";
     }
 
