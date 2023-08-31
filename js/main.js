@@ -21,7 +21,7 @@ function MudaDesenho(){
     else if((valor=="Peixes")|| (valor=="peixes")){
         texto.innerHTML = "Peixes";
         imagem.setAttribute("src","img/peixes.png");
-        imagem.setAttribute("width","250px");
+        imagem.setAttribute("width","235px");
         texto2.innerHTML = "Cavaleiro de Ouro do signo de peixes. Natural da Suécia. É o mais belo de todas as 88 constelações e acredita fielmente que a força é a justiça. Utiliza as características da rosa pelo Cosmo e aplica os golpes. As Rosas Diabólicas Reais são flores vermelhas com veneno para atacar os inimigos. Apesar do lema a força é a justiça, é o Cavaleiro que mais se preocupa com a paz na superfície.";
     }
 
@@ -49,7 +49,7 @@ function MudaDesenho(){
     else if((valor=="Leao")|| (valor=="Leão")|| (valor=="leao")|| (valor=="leão")){
         texto.innerHTML = "Leão";
         imagem.setAttribute("src","img/leao.png");
-        imagem.setAttribute("width","300px");
+        imagem.setAttribute("width","235px");
         texto2.innerHTML = "É o herói desta obra. Cavaleiro de Ouro do signo de Leão. Natural da Grécia.Tem a personalidade mais correta entre os Cavaleiros de Ouro e não gosta de trapaças. É um cavaleiro de honra que desfere abertamente golpes do tipo relâmpago na velocidade da luz. É o irmão mais novo de Aiolos de Sagitário que foi acusado de irmão traidor mas com a grande missão de salvar Atena descobre uma verdade bravamente guardada. Finalmente se reencontra com Aiolos que fora exterminado no Muro das Lamentações.";
     }
 
@@ -70,7 +70,7 @@ function MudaDesenho(){
     else if((valor=="Sagitario")|| (valor=="Sagitário")|| (valor=="sagitario")|| (valor=="sagitário")){
         texto.innerHTML = "Sagitário";
         imagem.setAttribute("src","img/sargitario.png");
-        imagem.setAttribute("width","250px");
+        imagem.setAttribute("width","235px");
         texto2.innerHTML = "Cavaleiro de Ouro do signo de sagitário. Natural da Grécia. É o irmão mais velho de Aiolia e foi considerado traidor pela morte de Atena. Mas na verdade é um cavaleiro exemplar que dedicou sua vida na grande missão de proteger Atena mesmo desprezado pelos que o rodeavam. Tido como candidato ao próximo Papa, tem grande caráter e espírito de luta e disposto a sacrificar sua própria vida se for por uma causa justa. Finalmente, reencontra com seu irmão mais novo Aiolia no Muro das Lamentações.";
     }
 
